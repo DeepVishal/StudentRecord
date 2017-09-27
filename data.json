@@ -1,0 +1,23 @@
+  {
+  	"studentsData": [{
+  			"name": "Student1",
+  			"phoneNumber": "1234567890",
+  			"dateOfJoining": "23 Aug 2017",
+  			"courses": ["course1", "course2"],
+  			"classesTaken": 10,
+  			"estimatedClasses": 30,
+  			"associatedBatches": ["Batch 1", " batch 2"]
+  		},
+  		{
+  			"name": "Student1",
+  			"phoneNumber": "1234567890",
+  			"dateOfJoining": "23 Aug 2017",
+  			"courses": ["course1", "course2"],
+  			"classesTaken": 10,
+  			"estimatedClasses": 30,
+  			"associatedBatches": ["Batch 1", " batch 2"]
+  		}
+  	],
+  	"courses": [],
+  	"batches": ["Batch 1", "Batch 2", "Batch 3", "Batch 4", "Batch 5", "Batch 6", "Batch 7", "Batch 8", "Batch 9", "Batch 10"]
+  }

@@ -1,0 +1,25 @@
+Cookbook:
+https://drive.google.com/file/d/0B-KnRiygPbkvaTRWTUtJYnlIakU/view
+
+#Moving to specific verision of npm:npm install -g npm@4.6.1
+
+Setting up angular2 project using cli: 
+1)npm install -g @angular/cli
+2)ng new new-project-name
+3)cd new-project-name
+4)ng serve   //to compile and open in browser
+
+Firebase connectivity with Angular 2 for real time data:
+https://medium.com/codingthesmartway-com-blog/angular-2-firebase-introduction-b4f32e844db2
+
+upadates needed as per: https://stackoverflow.com/questions/43772474/no-provider-for-angularfiredatabase#
+https://github.com/angular/angularfire2/blob/master/docs/version-4-upgrade.md
+
+Firebase connectivity with Angular 2 for authntication:
+https://coursetro.com/posts/code/32/Create-a-Full-Angular-Authentication-System-with-Firebase
+https://medium.com/codingthesmartway-com-blog/angular-2-firebase-authentication-7593c565fa53
+
+adding botstrap to angular project:
+https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a
+// just added bootstrap css, jquery and bootstrap js fom bootstrap site
+
